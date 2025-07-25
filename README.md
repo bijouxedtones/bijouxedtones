@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bijouxedtones
-- 👀 I’m interested in building my UX/UI portfolio
-- 🌱 I’m currently learning Figma, Canva, HTML, and Python
+- 👀 I’m interested in sharing my UX/UI portfolio
+- 🌱 I’m currently building Figma, Webflow, Canva, HTML, and SaaS
 - 💞️ I’m looking to collaborate on design projects as I learn and grow
-- 📫 How to reach me @bijouxedtones on Twitter
+- 📫 Email me at bijouxedtones@gmail.com 
 
 <!---
 bijouxedtones/bijouxedtones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
