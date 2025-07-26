@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijouxedtones
-- 👀 I’m interested in sharing my UX/UI portfolio
+- ✨ Come take a peek at my UX/UI portfolio and case studies!
 - 🌱 I’m currently building Figma, Webflow, Canva, HTML, and SaaS
-- 💞️ I’m looking to collaborate on design projects as I learn and grow
+- 🥳 I’m looking to collaborate on design projects as I learn and grow
 - 📫 Email me at bijouxedtones@gmail.com 
 
 <!---
